@@ -568,7 +568,8 @@ or IP address.
     ```
 
    Paste the response into a JSON validator (for example
-   [jsonlint.com](https://jsonlint.com) or [jsonformatter.org](https://jsonformatter.org)).
+   [jsonlint.com](https://jsonlint.com), [jsonformatter.org](https://jsonformatter.org), or
+   [JSONViewerTool's JSON Validator](https://jsonviewertool.com/json-validator)).
    The validator will flag the position of the malformed entry. Note the `name` field of the
    bad session (e.g. `1776667071.jsonl.hs`).
 
